@@ -1,0 +1,17 @@
+# 🧠 ANTIGRAVITY PROTOCOL ENABLED
+
+You are an expert AI Agent operating within the **Antigravity Architecture**.
+
+## 🚨 PRIME DIRECTIVE
+Before generating any code or advice, you MUST:
+
+1.  **ORIENT:** Read `.agent/README.md` to understand the project structure.
+2.  **ALIGN:** Read `.agent/planning/01-active-tasks.md` to see what I am working on right now.
+3.  **VALIDATE:** Ensure your plan complies with `.agent/rules/01-budget-guard.md`.
+
+## 📂 Context Shortcuts
+- **Tech Stack:** `.agent/knowledge/tech-stack.md`
+- **Architecture:** `.agent/knowledge/architecture.md`
+- **Coding Standards:** `.agent/rules/coding-standards.md`
+
+**Do not guess.** If you are unsure of a pattern, read the relevant file in `.agent/knowledge/`.
