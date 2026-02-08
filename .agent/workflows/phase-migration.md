@@ -1,5 +1,5 @@
 ---
-description: Automates the transition between project phases: audits completed work, clears the active board, and populates tasks for the next sprint.
+description: "Automates the transition between project phases: audits completed work, clears the active board, and populates tasks for the next sprint."
 ---
 
 # 🔄 Workflow: Phase Migration
